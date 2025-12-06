@@ -1,0 +1,10 @@
+{
+    "version": "1.1",
+    "changelog": "• Added auto-update feature\n• Fixed bugs in subdomain enumeration\n• Improved performance\n• Added new recon techniques",
+    "mandatory": true,
+    "download_url": "https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main/Scanner.py",
+    "script_name": "Scanner.py",
+    "release_date": "2024-01-15",
+    "checksum": "sha256_hash_here_optional",
+    "notes": "This update contains critical security fixes"
+}
