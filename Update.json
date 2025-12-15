@@ -1,6 +1,6 @@
 {
     "version": "3.0",
-    "changelog": "• Added auto-update feature\n• Fixed bugs in subdomain enumeration\n• Improved performance\n• Added new recon techniques",
+    "changelog": "• wolf auto-update feature\n• Fixed bugs in subdomain enumeration\n• Improved performance\n• Added new recon techniques",
     "mandatory": true,
     "download_url": "https://github.com/WolfT31/accesspin.git",
     "script_name": "Scanner.py",
