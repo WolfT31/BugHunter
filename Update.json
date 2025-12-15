@@ -4,7 +4,7 @@
     "mandatory": true,
     "download_url": "https://raw.githubusercontent.com/WolfT31/BugHunter/main/YOUR_EXECUTABLE_NAME",
     "script_name": "scanner",
-    "release_date": "2024-01-15",
+    "release_date": "2025-12-15",
     "checksum": "sha256_hash_here_optional",
     "notes": "This is a mandatory update"
 }
