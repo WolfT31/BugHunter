@@ -1,6 +1,6 @@
 {
     "version": "3.0",
-    "changelog": "• Added auto-update feature",
+    "changelog": "• Added auto-update feature\n • Some gugs has been Fixed\n • Added High Speed Mode\n • New UI & Design",
     "mandatory": true,
     "download_url": "https://raw.githubusercontent.com/WolfT31/BugHunterUpload/refs/heads/main/wolf.go",
     "release_date": "2025-12-15",
