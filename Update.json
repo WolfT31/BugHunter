@@ -1,8 +1,8 @@
 {
-    "version": "2.0",
+    "version": "3.0",
     "changelog": "• Added auto-update feature\n• Fixed bugs\n• Improved performance",
     "mandatory": true,
-    "download_url": "https://raw.githubusercontent.com/WolfT31/BugHunter/main/YOUR_EXECUTABLE_NAME",
+    "download_url": "https://raw.githubusercontent.com/WolfT31/BugHunterUpload/refs/heads/main/wolf.go",
     "script_name": "scanner",
     "release_date": "2025-12-15",
     "checksum": "sha256_hash_here_optional",
